@@ -1,2 +1,2 @@
-# desing-patterns-typescript
+# design-patterns-typescript
 Ejemplos de patrones de diseño en Typescript
